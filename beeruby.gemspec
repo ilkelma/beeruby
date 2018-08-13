@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "beeruby"
   spec.version       = Beeruby::VERSION
   spec.authors       = ["ilkelma"]
-  spec.email         = ["me@amknight.com"]
+  spec.email         = ["aknight@gmail.com"]
 
   spec.summary       = %q{An api for various brewing calculations.}
   # spec.description   = %q{TODO: Write a longer description or delete this line.}
